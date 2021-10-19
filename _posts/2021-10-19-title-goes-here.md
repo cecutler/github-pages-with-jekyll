@@ -1,5 +1,5 @@
 ---
-title: first blag post
+title: "first blag post"
 date: 2021-10-19
 ---
 
